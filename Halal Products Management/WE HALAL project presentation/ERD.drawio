@@ -1,0 +1,590 @@
+<mxfile host="app.diagrams.net" modified="2023-12-23T23:13:05.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Si_NGW3qv_67qWICNGBw" version="22.1.11" type="device">
+  <diagram name="Page-1" id="A4UC0_qu0Z7xKczPPT1s">
+    <mxGraphModel dx="2100" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-1" value="admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-2" value="shops" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-3" value="customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-4" value="delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-5" value="order" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1120" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-6" value="login&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-7" value="orders" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-9" value="deliver" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-8" value="enters" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="320" as="sourcePoint" />
+            <mxPoint x="1230" y="320" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="1070" as="sourcePoint" />
+            <mxPoint x="1600" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-17" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="320" as="sourcePoint" />
+            <mxPoint x="1310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="350" as="sourcePoint" />
+            <mxPoint x="1110" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="380" as="sourcePoint" />
+            <mxPoint x="1270" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-20" value="manage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KREDDdl-dhBHfyhKUNmb-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="430" as="sourcePoint" />
+            <mxPoint x="1270" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="580" as="sourcePoint" />
+            <mxPoint x="1270" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="580" as="sourcePoint" />
+            <mxPoint x="1270" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="580" as="sourcePoint" />
+            <mxPoint x="1030" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1120" as="sourcePoint" />
+            <mxPoint x="770" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="sourcePoint" />
+            <mxPoint x="1040" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-29" value="manage" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="410" as="sourcePoint" />
+            <mxPoint x="670" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="669.5" y="550" as="sourcePoint" />
+            <mxPoint x="669.5" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KREDDdl-dhBHfyhKUNmb-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.5" y="630" as="sourcePoint" />
+            <mxPoint x="679.5" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-33" value="provide" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.077;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KREDDdl-dhBHfyhKUNmb-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1110" as="sourcePoint" />
+            <mxPoint x="680" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1160" as="sourcePoint" />
+            <mxPoint x="940" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="1160" as="sourcePoint" />
+            <mxPoint x="1140" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1099.5" y="350" as="sourcePoint" />
+            <mxPoint x="1100" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="350" as="sourcePoint" />
+            <mxPoint x="1050" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-39" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="140" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-40" value="user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="220" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-41" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="680" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-42" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-43" value="location" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="560" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-44" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="720" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-45" value="name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-46" value="Email" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="670" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="600" as="sourcePoint" />
+            <mxPoint x="1030" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="360" as="sourcePoint" />
+            <mxPoint x="1040" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="360" as="sourcePoint" />
+            <mxPoint x="920" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="680" as="sourcePoint" />
+            <mxPoint x="870" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="670" as="sourcePoint" />
+            <mxPoint x="1040" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="810" as="sourcePoint" />
+            <mxPoint x="1130" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="790" as="sourcePoint" />
+            <mxPoint x="1110" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="790" as="sourcePoint" />
+            <mxPoint x="1110" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-55" value="phone number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="747" width="105" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="600" as="sourcePoint" />
+            <mxPoint x="1410" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-57" value="" style="endArrow=none;html=1;rounded=0;entryX=0.94;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1143" y="760" as="sourcePoint" />
+            <mxPoint x="1150" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1145" y="760" as="sourcePoint" />
+            <mxPoint x="1230" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="790" as="sourcePoint" />
+            <mxPoint x="1450" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-60" value="" style="endArrow=none;html=1;rounded=0;entryX=0.72;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="720" as="sourcePoint" />
+            <mxPoint x="1500.1999999999998" y="620.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="560" as="sourcePoint" />
+            <mxPoint x="1460" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-62" value="street" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="790" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-63" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="710" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-64" value="country" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="400" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-65" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="950" as="sourcePoint" />
+            <mxPoint x="1090" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-66" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="970" as="sourcePoint" />
+            <mxPoint x="1170" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-67" value="first name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="960" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-68" value="last name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="940" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-69" value="" style="endArrow=none;html=1;rounded=0;entryX=0.165;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="510" as="sourcePoint" />
+            <mxPoint x="610" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-70" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="560" as="sourcePoint" />
+            <mxPoint x="620" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="690" as="sourcePoint" />
+            <mxPoint x="640" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-73" value="location" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="545" width="110" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-74" value="number of&amp;nbsp; halal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="677" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-75" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+            <mxPoint x="480" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="580" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="450" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-80" value="country" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="640" as="sourcePoint" />
+            <mxPoint x="400" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-82" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="640" as="sourcePoint" />
+            <mxPoint x="400" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-83" value="street" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="614" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-84" value="city" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="540" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1125" as="sourcePoint" />
+            <mxPoint x="670" y="1125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-86" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1170" as="sourcePoint" />
+            <mxPoint x="670" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1500" as="sourcePoint" />
+            <mxPoint x="680" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-88" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="1450" as="sourcePoint" />
+            <mxPoint x="720" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-89" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1360" as="sourcePoint" />
+            <mxPoint x="760" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-90" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1280" as="sourcePoint" />
+            <mxPoint x="800" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-91" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="1140" as="sourcePoint" />
+            <mxPoint x="670" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-92" value="item number" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-93" value="item name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1350" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-94" value="quantity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1440" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-95" value="order&amp;nbsp; date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1500" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-96" value="bill" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1240" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="1240" as="sourcePoint" />
+            <mxPoint x="560" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1125" as="sourcePoint" />
+            <mxPoint x="590" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-100" value="item price" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1100" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-101" value="delivery date" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1020" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="1170" as="sourcePoint" />
+            <mxPoint x="800" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-103" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="1180" as="sourcePoint" />
+            <mxPoint x="1600" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-104" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="1210" as="sourcePoint" />
+            <mxPoint x="880" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-105" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-106" value="user name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="1170" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-107" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="1120" as="sourcePoint" />
+            <mxPoint x="1720" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1080" as="sourcePoint" />
+            <mxPoint x="1540" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-109" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1120" as="sourcePoint" />
+            <mxPoint x="1540" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1480" y="1160" as="sourcePoint" />
+            <mxPoint x="1480" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-111" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720" y="1160" as="sourcePoint" />
+            <mxPoint x="1720" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-112" value="user" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="1150" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-113" value="password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1160" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-114" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1040" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="KREDDdl-dhBHfyhKUNmb-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="1440" as="sourcePoint" />
+            <mxPoint x="1200" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-116" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1520" as="sourcePoint" />
+            <mxPoint x="1160" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-117" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1170" as="sourcePoint" />
+            <mxPoint x="1140" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-118" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1240" y="1360" as="sourcePoint" />
+            <mxPoint x="1240" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-119" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="1280" as="sourcePoint" />
+            <mxPoint x="1260" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-120" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="1130" as="sourcePoint" />
+            <mxPoint x="1200" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-121" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="1160" as="sourcePoint" />
+            <mxPoint x="1320" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-122" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="1240" as="sourcePoint" />
+            <mxPoint x="1080" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-123" value="driver&#39;s shop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1435" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-124" value="driver id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1350" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-125" value="driver vehicle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1260" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-126" value="driver address" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1520" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-127" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="1160" as="sourcePoint" />
+            <mxPoint x="1320" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-128" value="driver name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1080" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-129" value="vehicle plate" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1235" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-130" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="1080" as="sourcePoint" />
+            <mxPoint x="1200" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KREDDdl-dhBHfyhKUNmb-131" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1060" width="105" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
